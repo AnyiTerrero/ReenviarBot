@@ -1,0 +1,17 @@
+{
+  "name": "panel-bot-reenvio",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.22.1",
+    "mysql2": "^3.19.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
